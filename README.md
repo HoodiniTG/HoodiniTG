@@ -2,7 +2,6 @@
 - 👀 I’m interested in improving my skills as a programmer
 - 🏫 I'm studying Applied Computer Science at Howest
 - 😄 Pronouns: he/him
-- 🌐 Website: https://milandeboever.be
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HoodiniTG&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
 
